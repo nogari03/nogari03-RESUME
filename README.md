@@ -1,8 +1,9 @@
+
 # 이력서
 ![https://github.com/nogari03/nogari03-RESUME/blob/master/image/FirstView.jpg?raw=true](https://github.com/nogari03/nogari03-RESUME/blob/master/image/FirstView.jpg?raw=true)
 
-- 이름 : 강승현
-- 코드의 미니멀리즘을 추구하며 끊임없이 소통하는 개발자(가 되고싶다)
+- 이름 : **강승현**
+- **코드의 미니멀리즘을 추구하며 끊임없이 소통하는 개발자**(가 되고싶다)
 <br><br>
 - 컴퓨터 좋아함
 - 이제 첫걸음  
@@ -35,6 +36,7 @@ JIRA
 - 개인 미니 프로젝트
 - Servlet & JSP 활용 주차장 관리 웹어플리케이션 구현
 <br>
+
 ## 프로젝트2. 코드투게더    
 - 코딩 교육 클론 팀 프로젝트   
 - Spring mvc 활용 백엔드 서버 구현   
