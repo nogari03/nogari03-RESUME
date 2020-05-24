@@ -3,12 +3,11 @@
 ![https://github.com/nogari03/nogari03-RESUME/blob/master/image/FirstView.jpg?raw=true](https://github.com/nogari03/nogari03-RESUME/blob/master/image/FirstView.jpg?raw=true)
 
 - 이름 : **강승현**
-- **코드의 미니멀리즘을 추구하며 끊임없이 소통하는 개발자**(가 되고싶다)
+- **웹 개발자 공부중**
 <br><br>
 - 컴퓨터 좋아함
 - 이제 첫걸음  
 
-- 인천대학교(송도) 일어일문학과 졸업
 - 일본체류 3년 (2019.12 복귀)
 <br><br>
 - Email : mmgg555@naver.com
