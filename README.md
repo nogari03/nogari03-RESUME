@@ -1,11 +1,11 @@
 
 # 이력서
-![https://github.com/nogari03/nogari03-RESUME/blob/master/image/FirstView.jpg?raw=true](https://github.com/nogari03/nogari03-RESUME/blob/master/image/FirstView.jpg?raw=true)
+![image/photo.jpeg](image/photo.jpeg)
 
 - 이름 : **강승현**
 - **웹 개발자 공부중**
 <br><br>
-- 컴퓨터 좋아함
+- 컴퓨터 좋아함  
 - 이제 첫걸음  
 
 - 일본체류 3년 (2019.12 복귀)
@@ -29,7 +29,6 @@ JIRA
 
 ----
 <br>
-구공팩토리 부트캠프 참여 2020.01 ~ 2020.04
 
 ## 프로젝트1. 주차장 관리   
 - 개인 미니 프로젝트
