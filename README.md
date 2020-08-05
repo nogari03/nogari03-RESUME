@@ -1,15 +1,10 @@
 
 # 이력서
-![image/photo.jpeg](image/photo.jpeg)
+![profile](image/photo.png)
 
-- 이름 : **강승현**
-- **웹 개발자 공부중**
-<br><br>
-- 컴퓨터 좋아함  
-- 이제 첫걸음  
-
+## 이름 : **강승현**
+### **테스트코드 집착자**      
 - 일본체류 3년 (2019.12 복귀)
-<br><br>
 - Email : mmgg555@naver.com
 - Git : https://github.com/nogari03
 - Blog : https://mmgg555.tistory.com/
@@ -17,18 +12,24 @@
 ## 사용 기술
 
 Java  
-Spring  
+Javascript  
+
+Servlet  
+JSP  
+Spring
+
+HTML+CSS   
+Jquery   
 
 MYSQL  
+Oracle  
 
-Github   
+Github
+Slack   
 JIRA  
-
-##### ...
-##### 현재 Spring Boot와 JavaScript 공부중입니다
+Notion
 
 ----
-<br>
 
 ## 프로젝트1. 주차장 관리   
 - 개인 미니 프로젝트
