@@ -11,22 +11,13 @@
 ## 사용 기술
 
 ![java](image/skills/java.jpg) ![javascript](image/skills/javascript.png)  
----
 ![servlet](image/skills/servlet.png) ![jQuery](image/skills/jQuery.png)  
- ---
-![spring](image/skills/spring.png)
----
-
-![html5](image/skills/html5.png) ![css](image/skills/css.png)
----
-![mysql](image/skills/mysql.png) ![oracle](image/skills/oracle.jpg) 
----
+![spring](image/skills/spring.png)  
+![html5](image/skills/html5.png) ![css](image/skills/css.png)  
+![mysql](image/skills/mysql.png) ![oracle](image/skills/oracle.jpg)     
 ![github](image/skills/github.jpg) ![jira](image/skills/jira.png) ![notion](image/skills/notion.png) ![skills](image/skills/slack.png)
 
-
-
 ----
-
 
 ## 프로젝트1. 주차장 관리   
 - 개인 미니 프로젝트
