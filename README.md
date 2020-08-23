@@ -1,35 +1,34 @@
-
 # _소개합니다_
 ![profile](image/photo.png)
 
 ## 이름 : **강승현**
-### **테스트코드 집착자**      
+      
 - 일본체류 3년 (2019.12 복귀)
-- Email : mmgg555@naver.com
-- Git : https://github.com/nogari03
-- Blog : https://nogari03.github.io
+- **Email**: mmgg555@naver.com
+- **Git**: https://github.com/nogari03
+- **Blog**: https://nogari03.github.io
 
 ## 사용 기술
 
-Java  
-Javascript  
+![java](image/skills/java.jpg) ![javascript](image/skills/javascript.png)  
 
-Servlet  
-JSP  
-Spring
+![servlet](image/skills/servlet.png) ![jQuery](image/skills/jQuery.png)  
+ 
+![spring](image/skills/spring.png)
 
-HTML+CSS   
-Jquery   
 
-MYSQL  
-Oracle  
+![html5](image/skills/html5.png) ![css](image/skills/css.png)
 
-Github
-Slack   
-JIRA  
-Notion
+![mysql](image/skills/mysql.png) ![oracle](image/skills/oracle.jpg) 
+
+![github](image/skills/github.jpg)  
+![jira](image/skills/jira.png)  
+![notion](image/skills/notion.png)  
+![skills](image/skills/slack.png)
+
 
 ----
+
 
 ## 프로젝트1. 주차장 관리   
 - 개인 미니 프로젝트
