@@ -1,7 +1,6 @@
-# _소개합니다_
+# 강승현
+ 
 <img src="image/profile.jpeg" width="100px" height="100px" style="border-radius: 50%">
-
-## **강승현**
       
 - **Email**: mmgg555@naver.com
 - **Git**: https://github.com/nogari03
@@ -33,10 +32,10 @@
 
 ### 코드투게더
 - 코딩 교육 클론 팀 프로젝트   
-- Spring MVC 활용 백엔드 서버 구현   
-- 회원 CRUD 기능 및 JWT를 활용한 인증서버 구현   
+- **Spring MVC** 활용 백엔드 서버 구현   
+- 회원 CRUD 기능 및 **JWT를 활용한 인증서버** 구현   
 - 장고-스프링-프론트엔드 협동 팀 프로젝트
 
 ### 주차장 관리
 - 웹개발 첫시작. 1인 미니 프로젝트
-- Servlet & JSP 활용 주차장 관리 웹어플리케이션 구현
+- **Servlet & JSP** 활용 주차장 관리 웹어플리케이션 구현
