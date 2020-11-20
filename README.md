@@ -1,5 +1,5 @@
 # _소개합니다_
-<img src="image/profile.jpeg" width="100px" height="100px">
+<img src="image/profile.jpeg" width="100px" height="100px" style="border-radius: 50%">
 
 ## **강승현**
       
@@ -20,16 +20,16 @@
 - Tomcat
 
 ### Frontend
-- JS, Bootstrap
+- JS, Boostrap
 
 
 ## Projects
 
 ### 산오름
 - 국비 수료 작품
-- 누구나 쉽게 시작할 수 있는 등산을 목표로 제작 된 종합 등산 플랫폼
-- Spring, Oracle, AWS 등 활용
-- 등산로 정보 및 등산모임, 배포 등
+- **누구나 쉽게 시작할 수 있는 등산**을 목표로 제작 된 **종합 등산 플랫폼**
+- Spring, Oracle, AWS 등
+- 등산로 정보 및 등산모임, 배포 담당 (PM)
 
 ### 코드투게더
 - 코딩 교육 클론 팀 프로젝트   
